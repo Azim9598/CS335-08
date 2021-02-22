@@ -41,14 +41,17 @@
 
   <select name="start-from" id="" >
        <option value="songwe">Songwe</option> 
+       <option value="dar es salaam">Dar es salaam</option>
        <option value="katavi">Katavi</option> 
        <option value="kagera">Kagera</option> 
        <option value="geita">Geita</option> 
        <option value="kigoma">Kigoma</option> 
+       <option value="mbeya">Mbeya</option>
        <option value="mwanza">Mwanza</option> 
        <option value="shinyanga">Shinyanga</option> 
        <option value="mara">Mara</option> 
-       <option value="manyara">Manyara</option> 
+       <option value="manyara">Manyara</option>
+       <option value="pwani">Pwani</option> 
        <option value="arusha">Arusha</option> 
        <option value="kilimanjaro">Kilimanjaro</option> 
        <option value="tanga">Tanga</option> 
