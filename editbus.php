@@ -71,7 +71,7 @@ th {
 			<th>Plate Number</th>
 			<th>Class</th>
 			<th>Bus Name</th>
-			<th>Departuture time</th>
+			<th>Departure time</th>
 			<th>From</th>
 			<th>To</th>
 			<th>Date</th>
